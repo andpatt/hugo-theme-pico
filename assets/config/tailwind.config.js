@@ -43,8 +43,8 @@ module.exports = {
 				...theme('spacing')
 			}),
 			fontFamily: {
-				serif: ['Spectral', 'Georgia', 'Cambria', 'Times New Roman', 'Times', 'serif'],
-				charter: ['charter', 'Georgia', 'Cambria', 'Times New Roman', 'Times', 'serif']
+				serif: ['Minion Pro', 'Georgia', 'Cambria', 'Times New Roman', 'Times', 'serif'],
+				charter: ['Caveat', 'Georgia', 'Cambria', 'Times New Roman', 'Times', 'serif']
 			},
 			colors: {
 				// material color => grey
