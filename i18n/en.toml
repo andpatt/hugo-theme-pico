@@ -29,7 +29,7 @@ other = "Next"
 other = "Back"
 
 [contact]
-other = "Contact"
+other = "Talk to me"
 
 [contact_email]
 other = "Contact via email"
@@ -48,6 +48,9 @@ other = "About"
 
 [blog]
 other = "Blog"
+
+[work]
+other = "Work stuff"
 
 [present]
 other = "Present"
